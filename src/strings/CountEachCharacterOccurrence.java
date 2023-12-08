@@ -20,6 +20,7 @@ public class CountEachCharacterOccurrence {
 		text = text.toLowerCase();
 		
 		text = text.replace(" ", "");
+		
 		//convert the string into character array
 		char ch[] = text.toCharArray();
 		
