@@ -6,7 +6,7 @@ public class ReverseString {
 
 		String str = "this is a java program";;
 		
-		String revString = "";
+		String revString="";
 		
 		for(int i=str.length()-1;i>=0;i--)
 		{
